@@ -1,5 +1,7 @@
 # Mochi, Run
 
+![mochi](https://github.com/user-attachments/assets/192ba409-ba0b-4528-b308-245530447d6c)
+
 "Mochi, Run" is a 2D platformer game built using the Raylib library.
 In this game, you control Mochi the cat as you jump to avoid enemy drones.
 Every second you survive matters as it counts towards your score.
@@ -30,6 +32,9 @@ Every second you survive matters as it counts towards your score.
 - Replayability Mechanic: replay the game as many times as you want with multiple attempts to improve your score using the try again mechanic.
 
 - Audio and Music: contains SFX for various actions and a catchy soundtrack.
+
+  ![mochi-run](https://github.com/user-attachments/assets/90f41f82-21f7-4b9e-86ca-702f11aca452)
+
 
 ## Getting Started
 
