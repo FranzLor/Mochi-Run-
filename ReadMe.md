@@ -51,9 +51,6 @@ Must Have:
 
 ### Installation
 
-Clone Respository:
-git clone https://github.com/ZeroCalBacon/Mochi-Run-.git
-
 Compile Program:
 cd mochi-run
 mkdir build
